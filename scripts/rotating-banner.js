@@ -5,5 +5,5 @@
     count++;
     if (count > 5) {count = 0}
     document.getElementById('banner').setAttribute("src", "img/banners/" + count + ".jpg");
-  }, 3000)
+  }, 5000)
 </script>

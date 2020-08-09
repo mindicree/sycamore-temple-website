@@ -8,7 +8,7 @@
 
 <div class="social-media">
   <a href="#">
-    <img src="" alt="">
+    <img src="img/assets/Facebook.svg" width: "64" height = "64" alt="">
   </a>
 
   <a href="#">
