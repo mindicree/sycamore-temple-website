@@ -9,6 +9,7 @@
       #nav-home { background-color: #0e4d44;}
       #nav-home a { color: #fff;}
     </style>
+
   </head>
 
   <body>
@@ -19,8 +20,7 @@
     <!-- Content Begins Here -->
 
     <!-- Banner -->
-    <a href="#"><img src="img\banners\0.jpg" alt="" class="banner"></a>
-
+    <a href="#"><img src="img\banners\0.jpg" alt="" id="banner"></a>
 
     <!-- Quick Links -->
     <div class="quick-links">
@@ -43,4 +43,5 @@
     <?php include "comp-files/footer.php"; ?>
 
   </body>
+  <?php include "comp-files/scripts.php"; ?>
 </html>
