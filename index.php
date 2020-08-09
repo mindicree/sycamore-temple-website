@@ -5,7 +5,7 @@
   <head>
     <title>Sycamore Temple COGIC | Home</title>
     <?php include "comp-files\header.php"; ?>
-    <style media="screen">
+    <style>
       #nav-home { background-color: #0e4d44;}
       #nav-home a { color: #fff;}
     </style>
