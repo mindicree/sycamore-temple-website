@@ -22,7 +22,14 @@
 
         <!-- Banner -->
         <div class="banner-wrapper">
-          <a href="#"><img src="img\banners\0.jpg" alt="" id="banner"></a>
+          <a href="#"><img src="img/banners/0.jpg" alt="" id="banner-0" class="banner" style="opacity: 1; z-index: 5;"></a>
+          <a href="#"><img src="img/banners/1.jpg" alt="" id="banner-1" class="banner" style="opacity: 0; z-index: 4;"></a>
+          <a href="#"><img src="img/banners/2.jpg" alt="" id="banner-2" class="banner" style="opacity: 0; z-index: 3;"></a>
+          <a href="#"><img src="img/banners/3.jpg" alt="" id="banner-3" class="banner" style="opacity: 0; z-index: 2;"></a>
+          <a href="#"><img src="img/banners/4.jpg" alt="" id="banner-4" class="banner" style="opacity: 0; z-index: 1;"></a>
+          <a href="#"><img src="img/banners/5.jpg" alt="" id="banner-5" class="banner" style="opacity: 0; z-index: 0;"></a>
+
+
         </div>
 
         <!-- Quick Links -->

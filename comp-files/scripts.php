@@ -1,1 +1,1 @@
-<?php include "scripts/rotating-banner.js"; ?>
+<?php include "scripts/rotating-banner-2.js"; ?>
