@@ -42,15 +42,24 @@ ul li a:hover {
   color: #fff;
 }
 
+.banner-wrapper-outer {
+  position: relative;
+  text-align: center;
+  width: 100%;
+}
+
 .banner-wrapper {
   position: relative;
+  width: 70%;
+  text-align: center;
+  align-self: center;
 }
 
 .banner {
   padding-top: 60px;
   position: absolute;
   top: 0;
-  left: 0;
+  left: calc(21%);
   width: 100%;
   transition: linear 1s;
 }
@@ -61,11 +70,11 @@ ul li a:hover {
   margin: auto;
   text-align: center;
   position: inherit;
-  padding-top: 48%;
+  padding-top: 35%;
 }
 
 .quick-links a img {
-  width: 300px;
+  width: 200px;
   margin: 20px 50px;
   transition: transform .2s;
 }
@@ -87,7 +96,7 @@ ul li a:hover {
 .sycamore img {
   width: 250px;
   padding-top: 10px;
-  padding-left: 300px;
+  padding-left: 250px;
   float: right;
 }
 
