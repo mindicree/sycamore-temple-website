@@ -10,20 +10,37 @@ nav {
   position: fixed;
   background-color: #fff;
   z-index: 100;
-  visibility: hidden;
 }
+
 
 @media only screen and (min-width: 1000px) {
   nav {
     -webkit-box-shadow: 0 8px 6px -6px #999;
     -moz-box-shadow: 0 8px 6px -6px #999;
     box-shadow: 0 8px 6px -6px #999;
-    visibility: visible;
   }
 }
 
 ul {
+  display: inherit;
+}
 
+#h-bar {
+  visibility: hidden;
+}
+
+@media only screen and (max-width: 1000px) {
+  ul {
+    display: none;
+  }
+
+  #h-bar {
+    visibility: visible;
+    position: relative;
+    padding-top: 13px;
+    padding-left: 0;
+    width: 100%;
+  }
 }
 
 ul li {
@@ -125,8 +142,6 @@ ul li a:hover {
   padding-top: 50px;
   padding-bottom: 50px;
 }
-
-
 .sycamore img {
   width: 250px;
   padding-top: 10px;
@@ -146,6 +161,32 @@ ul li a:hover {
   font-size: 16px;
   text-align: center;
   padding-left: 150px;
+}
+
+@media only screen and (max-width: 1000px) {
+
+  .sycamore {
+    padding-top: 0px;
+  }
+  .sycamore img {
+    width: 150px;
+    padding-top: 10px;
+    padding-left: calc(40%);
+    float: right;
+  }
+
+  .sycamore h6 {
+    padding-top: 50px;
+    font-size: 32px;
+    position: relative;
+    padding-left: 0;
+  }
+
+  .quote {
+    padding-left: 50px;
+    font-size: 12px;
+  }
+
 }
 
 .page-container {
