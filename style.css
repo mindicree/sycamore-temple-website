@@ -27,28 +27,7 @@ ul {
 
 #h-bar {
   visibility: hidden;
-}
-
-@media only screen and (max-width: 1000px) {
-  ul {
-    display: none;
-  }
-
-  #h-bar {
-    visibility: visible;
-    position: relative;
-    padding-top: 13px;
-    padding-left: 0;
-    width: 100%;
-  }
-}
-
-ul li {
-  list-style: none;
-  display: inline-inline-block;
-  float: left;
-  line-height: 60px;
-  transition: ease-in-out 0.15s;
+  padding: 0px;
 }
 
 ul li:hover {
@@ -68,6 +47,38 @@ ul li a {
 ul li a:hover {
   color: #fff;
 }
+
+@media only screen and (max-width: 1000px) {
+  ul {
+    display: grid;
+    grid-template-columns: 1fr
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+    visibility: hidden;
+  }
+
+  ul li {
+    background-color: #fff;
+    text-align: center;
+  }
+
+  #h-bar {
+    visibility: visible;
+    position: relative;
+    padding-top: 13px;
+    padding-left: 0;
+    width: 100%;
+  }
+}
+
+ul li {
+  list-style: none;
+  display: inline-inline-block;
+  float: left;
+  line-height: 60px;
+  transition: ease-in-out 0.15s;
+}
+
+
 
 .banner-wrapper-outer {
   position: relative;
