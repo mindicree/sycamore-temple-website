@@ -1,6 +1,6 @@
 <nav>
   <ul>
-    <a href="#">
+    <a href="#" onclick="navToggle()">
       <svg id="h-bar" viewBox="0 0 100 100" width="5%" height="40">
         <rect width="100" height="15" rx="8" fill="#0e4d44"></rect>
         <rect y="30" width="100" height="15" rx="8" fill="#0e4d44"></rect>
