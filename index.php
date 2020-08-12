@@ -53,5 +53,6 @@
 
 
   </body>
+  <!-- Scripts -->
   <?php include "comp-files/scripts.php"; ?>
 </html>
