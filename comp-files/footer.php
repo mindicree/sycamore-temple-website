@@ -4,6 +4,8 @@
   <a href="#">Privacy</a>
   <a href="#">Terms of Use</a>
   <a href="#">COGIC Website</a>
+  <a href="#">Land Of The Sky Asheville District</a>
+  <a href="#">NC COGIC</a>
 </div>
 
 <div class="social-media">
