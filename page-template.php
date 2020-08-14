@@ -6,7 +6,7 @@
     <title>Sycamore Temple COGIC | Home</title>
     <?php include "comp-files\header.php"; ?>
     <style>
-      #nav-[] { background-color: #0e4d44;}
+      #nav-[] { background-color: var(--green);}
       #nav-[] a { color: #fff;}
     </style>
 
