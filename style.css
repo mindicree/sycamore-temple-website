@@ -1,13 +1,17 @@
 <style>
+/* Edwardian Script Import */
 @font-face {
     font-family: 'edward';
     src: url("fonts/Edwardian_Script_ITC.ttf");
 }
 
+/* Some Reused Variables */
 :root {
   --green: #0e4d44;
+  --footer-height: 250px;
 }
 
+/* Navigation Styling */
 nav {
   width: 100%;
   height: 40px;
@@ -16,7 +20,7 @@ nav {
   z-index: 100;
 }
 
-
+/* Mobile Navigation Styling */
 @media only screen and (min-width: 1000px) {
   nav {
     -webkit-box-shadow: 0 8px 6px -6px #999;
@@ -83,7 +87,7 @@ ul li {
 }
 
 
-
+/* Rotating Banner Styling */
 .banner-wrapper-outer {
   position: relative;
   text-align: center;
@@ -97,8 +101,6 @@ ul li {
   align-self: center;
 }
 
-
-
 .banner {
   padding-top: 40px;
   position: absolute;
@@ -108,6 +110,7 @@ ul li {
   transition: linear 1s;
 }
 
+/* Mobile Rotating Banner Styling */
 @media only screen and (max-width: 1000px) {
   .banner-wrapper {
     width: 100%;
@@ -118,6 +121,7 @@ ul li {
   }
 }
 
+/* Quick Links Styling */
 .quick-links {
   width: 100%;
   margin: auto;
@@ -144,6 +148,7 @@ ul li {
   }
 }
 
+/* Sycamore Styling */
 .quick-links a img:hover {
   transform: scale(1.05);
 }
@@ -204,18 +209,21 @@ ul li {
 
 }
 
+/* Page Container */
 .page-container {
   min-height: 100vh;
   position: relative;
 }
 
 .content {
-  padding-bottom: 250px;
+  /* Footer Size Here */
+  padding-bottom: var(--footer-height);
 }
 
+/* Footer Styling */
 footer {
   width: 100%;
-  height: 250px;
+  height: var(--footer-height);
   background-color: var(--green);
   position: absolute;
   bottom: 0;
@@ -251,7 +259,6 @@ footer .social-media a {
 footer .social-media a:hover {
   opacity: 1.0;
 }
-
 
 footer .info {
   text-align: center;

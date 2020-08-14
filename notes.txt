@@ -1,0 +1,27 @@
+Immediate Requirements
+- High-resolution photo(s) of Pastor and First Lady
+- High-resolution photo(s) of the church
+- Sycamore Temple Seal
+- Sycamore Temple Title Font
+
+Current Tasks
+- Redo front banner for single image for church
+  - req (priority norm): photo of pastor and first Lady
+
+Future Tasks
+- create about page (2-4 hrs)
+  - req (priority low): text about the church
+
+- create our pastor page (2-4 hrs)
+  - req (priority low): text about Pastor
+  - req (priority norm): photo(s) of pastor
+
+- create gallery page (4-8 hrs)
+  - req (priority low): photos for gallery
+
+- create announcements page (8 hrs)
+  - req (priority low): announcements
+
+- create contact page (8 hrs)
+  - req (priority low): email for reception
+  - req (priority low):
