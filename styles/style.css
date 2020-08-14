@@ -14,12 +14,13 @@
 h1 {
   padding-top: 95px;
   text-align: center;
-  padding-bottom: 20px;
+  padding-bottom: 60px;
 
   font-size: 36px;
   font-family: Arial;
   font-weight: bold;
-  color: var(--green);
+  background-color: var(--green);
+  color: white;
 }
 
 h2 {
@@ -119,6 +120,31 @@ ul li {
   transition: ease-in-out 0.15s;
 }
 
+/* front banner styling */
+.front-banner {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  background-color: var(--green);
+  width: 100%;
+  height: 500px;
+  text-align: center;
+}
+
+h2 {
+  color: #fff;
+  font-family: edward;
+  font-size: 76px;
+  position: relative;
+  padding-top: 200px;
+  font-weight: lighter;
+}
+
+@media only screen and (max-width: 1000px) {
+  .front-banner {
+    height: 400px;
+  }
+}
 
 /* Rotating Banner Styling */
 .banner-wrapper-outer {
@@ -160,7 +186,7 @@ ul li {
   margin: auto;
   text-align: center;
   position: inherit;
-  padding-top: 32%;
+  padding-top: 20px;
 }
 
 .quick-links a img {
@@ -170,10 +196,6 @@ ul li {
 }
 
 @media only screen and (max-width: 1000px) {
-  .quick-links {
-    padding-top: 50%;
-  }
-
   .quick-links a img {
     width: 150px;
     margin: 20px 15px;

@@ -25,7 +25,7 @@
         <div class="about-text-wrapper">
 
 
-          <h2>Who is Sup. Payne?</h2>
+          <h2>Who is Superintendent Payne?</h2>
           <p>&emsp; &emsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vel consectetur dolor. Fusce tempus, quam sit amet rutrum venenatis, ex nibh auctor est, in hendrerit metus lectus at arcu. Suspendisse sagittis nisi in ex consequat lacinia. Duis malesuada velit ut est suscipit fermentum. Donec odio lorem, mattis sed eros quis, volutpat condimentum erat. Mauris et ullamcorper justo. Aliquam vel cursus purus, a congue elit. Nunc dignissim, mauris in tempus faucibus, dui risus sodales ligula, sit amet feugiat tellus ipsum non nunc. Nullam eu eleifend lorem. Nunc pellentesque sodales ipsum, nec hendrerit velit condimentum non. Mauris sagittis turpis libero, a finibus mi lobortis id. Aenean tincidunt massa a eleifend feugiat. Donec condimentum dolor vel eros bibendum aliquam. Ut consectetur, mi laoreet consequat iaculis, tellus dui sodales magna, sit amet egestas nunc lorem ac tortor. Fusce libero odio, dictum nec neque quis, aliquam porta felis. Curabitur in vulputate metus. <br>&emsp; &emsp;
 
         Suspendisse ante dolor, volutpat et enim lacinia, mattis eleifend orci. Pellentesque luctus fringilla rhoncus. Vivamus eget arcu id risus ullamcorper interdum a sit amet massa. Etiam laoreet ut lectus ut tristique. Maecenas nec fermentum tellus. Ut lorem orci, interdum sed justo quis, suscipit convallis tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam lorem sapien, scelerisque ac turpis pellentesque, condimentum commodo leo.</p>

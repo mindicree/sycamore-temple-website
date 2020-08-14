@@ -20,7 +20,14 @@
 
         <!-- Content Begins Here -->
 
-        <!-- Banner -->
+        <!-- New Banner -->
+        <div class="front-banner">
+          <img src="" alt="">
+          <h2>Sycamore Temple<br>COGIC</h2>
+          <img src="" alt="">
+        </div>
+
+        <!-- Banner
         <div class="banner-wrapper-outer">
           <div class="banner-wrapper">
             <a href="#"><img src="img/banners/0.jpg" alt="" id="banner-0" class="banner" style="opacity: 1; z-index: 5;"></a>
@@ -31,7 +38,7 @@
             <a href="#"><img src="img/banners/5.jpg" alt="" id="banner-5" class="banner" style="opacity: 0; z-index: 0;"></a>
           </div>
         </div>
-
+      -->
 
         <!-- Quick Links -->
         <div class="quick-links">
