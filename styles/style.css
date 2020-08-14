@@ -144,6 +144,10 @@ h2 {
   .front-banner {
     height: 400px;
   }
+
+  h2 {
+    padding-top: 100px;
+  }
 }
 
 /* Rotating Banner Styling */
