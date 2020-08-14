@@ -5,9 +5,12 @@ Immediate Requirements
 - Sycamore Temple Title Font
 
 Current Tasks
-- Redo front banner for single image for church (2-4 hrs)
-  - req (priority norm): photo of pastor and first Lady
 - Add pages and link them (1-2 hrs)
+- Redo front banner for single image for church (4-6 hrs)
+  - req (priority norm): photo of pastor and first Lady
+  - req (priority norm): sycamore temple Seal
+  - req (priority norm): sycamore temple title font
+
 
 Future Tasks
 - create about page (2-4 hrs)
