@@ -123,9 +123,10 @@ ul li {
 /* front banner styling */
 .front-banner {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 10% 80% 10%;
   grid-template-rows: 1fr 1fr;
-  background-color: var(--green);
+  background: rgb(14,77,68);
+  background: radial-gradient(circle, rgba(14,77,68,1) 0%, rgba(14,77,68,1) 20%, rgba(49,109,101,1) 100%);
   width: 100%;
   height: 500px;
   text-align: center;
@@ -133,11 +134,12 @@ ul li {
 
 h2 {
   color: #fff;
-  font-family: edward;
+  font-family: Calibra;
   font-size: 76px;
   position: relative;
   padding-top: 200px;
   font-weight: lighter;
+  text-shadow: 4px 4px 10px black;
 }
 
 @media only screen and (max-width: 1000px) {
@@ -197,6 +199,7 @@ h2 {
   width: 200px;
   margin: 20px 50px;
   transition: transform .2s;
+  box-shadow: 8px 8px 8px black;
 }
 
 @media only screen and (max-width: 1000px) {
@@ -210,6 +213,7 @@ h2 {
 /* Sycamore Styling */
 .quick-links a img:hover {
   transform: scale(1.05);
+  box-shadow: 8px 8px 8px black;
 }
 
 .sycamore {

@@ -23,7 +23,7 @@
         <!-- New Banner -->
         <div class="front-banner">
           <img src="" alt="">
-          <h2>Sycamore Temple<br>COGIC</h2>
+          <h2>Sycamore Temple<span style="font-size: 42px;"><br>Church of God in Christ</span></h2>
           <img src="" alt="">
         </div>
 
