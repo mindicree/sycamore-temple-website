@@ -24,8 +24,8 @@
 
 <div class="info">
   11 N Ann Street, Asheville, NC 28803 <br>
-  123-456-7890 <br>
-  © 2020 Sycamore Temple COGIC
+  123-456-7890 <br><br>
+  © 2020 Sycamore Temple COGIC. All Rights Reserved.
 </div>
 
 </footer>
