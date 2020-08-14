@@ -3,11 +3,11 @@
 
   <!-- Header info from header.php -->
   <head>
-    <title>Sycamore Temple COGIC | Home</title>
+    <title>Sycamore Temple COGIC | Announcements</title>
     <?php include "comp-files\header.php"; ?>
     <style>
-      #nav-[] { background-color: var(--green);}
-      #nav-[] a { color: #fff;}
+      #nav-events { background-color: var(--green);}
+      #nav-events a { color: #fff;}
     </style>
 
   </head>
