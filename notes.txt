@@ -5,7 +5,7 @@ Programming Notes
   - h3 - Front banner title
   - h4 - Services and times
   - h5 - Event titles
-  - h6 - n/a
+  - h6 - quote
 
 Immediate Requirements
 - High-resolution photo(s) of Pastor and First Lady
