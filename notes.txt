@@ -1,3 +1,12 @@
+Programming Notes
+- Header tags
+  - h1 - about titles
+  - h2 - About section titles
+  - h3 - front banner title
+  - h4 - n/a
+  - h5 - n/a
+  - h6 - n/a
+
 Immediate Requirements
 - High-resolution photo(s) of Pastor and First Lady
 - High-resolution photo(s) of the church
@@ -5,7 +14,7 @@ Immediate Requirements
 - Sycamore Temple Title Font
 
 Current Tasks
-- Add pages and link them (1-2 hrs)
+- Separate main style sheet into sections (2 hrs)
 - Redo front banner for single image for church (4-6 hrs)
   - req (priority norm): photo of pastor and first Lady
   - req (priority norm): sycamore temple Seal

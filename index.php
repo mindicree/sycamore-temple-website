@@ -23,7 +23,7 @@
         <!-- New Banner -->
         <div class="front-banner">
           <img src="" alt="">
-          <h2>Sycamore Temple<span style="font-size: 42px;"><br>Church of God in Christ</span></h2>
+          <h3>Sycamore Temple<span style="font-size: 42px;"><br>Church of God in Christ</span></h3>
           <img src="" alt="">
         </div>
 
