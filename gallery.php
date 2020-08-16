@@ -21,6 +21,7 @@
 
 
         <!-- Content Begins Here -->
+        <h1>Photo Gallery</h1>
 
 
 
