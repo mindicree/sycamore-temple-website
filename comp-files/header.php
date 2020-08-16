@@ -12,6 +12,7 @@
     <?php include ('styles/rotating-banner.css') ?>
     <?php include ('styles/about.css') ?>
     <?php include ('styles/front-banner.css') ?>
+    <?php include ('styles/sycamore.css') ?>
 
     <!-- Footer stylings -->
     <?php include ('styles/footer.css') ?>

@@ -54,6 +54,7 @@
         <div class="sycamore">
           <img src="img\assets\sycamore.jpg" alt="">
           <h6>"We're Better Together" <br><span class="quote"> - Sup. Samuel L Payne, Jr. </span></h6>
+          <img src="img\assets\sycamore.jpg" alt=""></img>
         </div>
         <!-- Content Ends Here -->
       </div>

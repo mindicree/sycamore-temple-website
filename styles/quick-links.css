@@ -15,6 +15,11 @@
   box-shadow: 8px 8px 8px black;
 }
 
+.quick-links a img:hover {
+  transform: scale(1.05);
+  box-shadow: 8px 8px 8px black;
+}
+
 @media only screen and (max-width: 1000px) {
   .quick-links a img {
     width: 150px;

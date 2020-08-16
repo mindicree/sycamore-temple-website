@@ -1,0 +1,40 @@
+<style>
+/* Sycamore Styling */
+.sycamore {
+  display: grid;
+  grid-template-columns: 25% 50% 25%;
+  grid-template-rows: 1fr;
+  width: 70%;
+  margin: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+.sycamore img {
+  width: 100%;
+  float: right;
+}
+
+.sycamore h6 {
+  padding-top: 20%;
+  font-size: 60px;
+  font-family: edward;
+  position: relative;
+}
+
+.quote {
+  font-family: serif;
+  font-size: 16px;
+  text-align: center;
+}
+
+@media only screen and (max-width: 1000px) {
+  .sycamore {
+    width: 100%;
+  }
+
+  .sycamore h6 {
+    font-size: 38px;
+  }
+}
+</style>
