@@ -14,7 +14,12 @@ Immediate Requirements
 - Sycamore Temple Title Font
 
 Current Tasks
-- Separate main style sheet into sections (2 hrs)
+- fix footer links for mobile (2 hrs)
+- add more social media icons (1 hr)
+- create live page (2 hrs)
+- create giving page (2 hrs)
+- 
+-
 - Redo front banner for single image for church (4-6 hrs)
   - req (priority norm): photo of pastor and first Lady
   - req (priority norm): sycamore temple Seal
