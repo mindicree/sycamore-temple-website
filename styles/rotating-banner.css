@@ -1,3 +1,35 @@
 <style>
+/* Rotating Banner Styling */
+.banner-wrapper-outer {
+  position: relative;
+  text-align: center;
+  width: 100%;
+}
 
+.banner-wrapper {
+  position: relative;
+  width: 70%;
+  text-align: center;
+  align-self: center;
+}
+
+.banner {
+  padding-top: 40px;
+  position: absolute;
+  top: 0;
+  left: calc(21%);
+  width: 100%;
+  transition: linear 1s;
+}
+
+/* Mobile Rotating Banner Styling */
+@media only screen and (max-width: 1000px) {
+  .banner-wrapper {
+    width: 100%;
+  }
+
+  .banner {
+    left: 0;
+  }
+}
 </style>

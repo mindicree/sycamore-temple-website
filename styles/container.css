@@ -1,3 +1,12 @@
 <style>
+/* Page Container */
+.page-container {
+  min-height: 100vh;
+  position: relative;
+}
 
+.content {
+  /* Footer Size Here */
+  padding-bottom: var(--footer-height);
+}
 </style>
