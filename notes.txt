@@ -1,9 +1,9 @@
 Programming Notes
 - Header tags
-  - h1 - about titles
+  - h1 - Page titles
   - h2 - About section titles
-  - h3 - front banner title
-  - h4 - n/a
+  - h3 - Front banner title
+  - h4 - Services and times
   - h5 - Event titles
   - h6 - n/a
 
