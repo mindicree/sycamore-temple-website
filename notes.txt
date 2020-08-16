@@ -18,7 +18,7 @@ Current Tasks
 - add more social media icons (1 hr)
 - create live page (2 hrs)
 - create giving page (2 hrs)
-- 
+- change quick links to div boxes
 -
 - Redo front banner for single image for church (4-6 hrs)
   - req (priority norm): photo of pastor and first Lady
