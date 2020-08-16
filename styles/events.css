@@ -1,0 +1,55 @@
+<style>
+
+.event-list {
+
+}
+
+.event-wrapper {
+  position: relative;
+  padding-top: 50px;
+  display: grid;
+  grid-template-columns: 33% auto;
+  grid-template-rows: auto;
+  width: 70%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  border-bottom: 5px solid var(--green);
+}
+
+.event-title {
+  padding-top: 3%;
+  padding-bottom: 20px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  color: var(--green);
+  font-family: Arial;
+}
+
+.event-text {
+  padding-top: 0px;
+  padding-left: 20px;
+}
+
+.event-data {
+  font-weight: bold;
+}
+
+.event-wrapper img {
+  width: 100%;
+}
+
+@media only screen and (max-width: 1000px) {
+  .event-wrapper {
+    grid-template-columns: auto;
+  }
+  .event-text {
+    padding-left: 0px;
+  }
+  .event-wrapper img {
+    width: 50%;
+    margin: 0 auto;
+  }
+}
+
+</style>

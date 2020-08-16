@@ -4,7 +4,7 @@ Programming Notes
   - h2 - About section titles
   - h3 - front banner title
   - h4 - n/a
-  - h5 - n/a
+  - h5 - Event titles
   - h6 - n/a
 
 Immediate Requirements

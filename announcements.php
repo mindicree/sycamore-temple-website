@@ -23,6 +23,13 @@
         <!-- Content Begins Here -->
         <h1>Announcements</h1>
 
+        <div class="event-list">
+          <?php foreach (glob('events/*.php') as $filename) {
+            include_once $filename;
+          }
+          ?>
+        </div>
+        <!--Get All Events from events folder -->
 
 
 
