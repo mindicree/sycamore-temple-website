@@ -9,7 +9,7 @@
 </div>
 
 <div class="social-media">
-  <a href="#">
+  <a href="https://facebook.com/sycamoretemple">
     <img src="img/assets/Facebook.svg" width: "64" height = "64" alt="">
   </a>
 
