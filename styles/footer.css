@@ -48,4 +48,14 @@ footer .info {
   margin: auto;
   line-height: 20px;
 }
+
+/* Mobile Footer Correction */
+@media only screen and (max-width: 1000px) {
+  footer .legal-stuff a {
+    text-decoration: none;
+    color: #aaa;
+    font-weight: bold;
+    margin: 0px 30px;
+  }
+}
 </style>

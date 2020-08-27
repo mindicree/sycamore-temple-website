@@ -14,7 +14,6 @@ Immediate Requirements
 - Sycamore Temple Title Font
 
 Current Tasks
-- fix footer links for mobile (2 hrs)
 - add more social media icons (1 hr)
 - create contact page (2 hrs)
 - create live page (2 hrs)
