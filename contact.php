@@ -24,10 +24,11 @@
         <h1>Contact Us</h1>
 
         <div class="form-container">
-          <form class="contact" action="index.html" method="post">
+          <form class="contact" method="post" action="contact-form-send.php">
             <input type="text" name="name" placeholder="Name" required>
-            <input type="text" name="email" placeholder="Email" required>
-            <textarea name="name" rows="10" cols="80" placeholder="Message..."></textarea>
+            <input type="text" name="email" placeholder="Your Email" required>
+            <input type="text" name="subject" placeholder="Subject" required>
+            <textarea name="message" rows="10" cols="80" placeholder="Message..."></textarea>
             <input type="submit" name="submit" value="Submit" class="contact-form-submit" required>
           </form>
         </div>
