@@ -4,7 +4,7 @@
   <!-- Header info from header.php -->
   <head>
     <title>Sycamore Temple COGIC | Gallery</title>
-    <?php include "comp-files\header.php"; ?>
+    <?php include "comp-files/header.php"; ?>
     <style>
       #nav-gallery { background-color: var(--green);}
       #nav-gallery a { color: #fff;}
@@ -16,7 +16,7 @@
     <div class="page-container">
       <div class="content">
         <!-- navigation from menu.php -->
-        <?php include "comp-files\menu.php"; ?>
+        <?php include "comp-files/menu.php"; ?>
 
 
 

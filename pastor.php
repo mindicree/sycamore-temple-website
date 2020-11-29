@@ -4,7 +4,7 @@
   <!-- Header info from header.php -->
   <head>
     <title>Sycamore Temple COGIC | Our Pastor</title>
-    <?php include "comp-files\header.php"; ?>
+    <?php include "comp-files/header.php"; ?>
     <style>
       #nav-pastor { background-color: var(--green);}
       #nav-pastor a { color: #fff;}
@@ -16,7 +16,7 @@
     <div class="page-container">
       <div class="content">
         <!-- navigation from menu.php -->
-        <?php include "comp-files\menu.php"; ?>
+        <?php include "comp-files/menu.php"; ?>
 
 
 
