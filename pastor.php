@@ -26,22 +26,58 @@
 
 
           <h2>Who is Superintendent Payne?</h2>
-          <p>&emsp; &emsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vel consectetur dolor. Fusce tempus, quam sit amet rutrum venenatis, ex nibh auctor est, in hendrerit metus lectus at arcu. Suspendisse sagittis nisi in ex consequat lacinia. Duis malesuada velit ut est suscipit fermentum. Donec odio lorem, mattis sed eros quis, volutpat condimentum erat. Mauris et ullamcorper justo. Aliquam vel cursus purus, a congue elit. Nunc dignissim, mauris in tempus faucibus, dui risus sodales ligula, sit amet feugiat tellus ipsum non nunc. Nullam eu eleifend lorem. Nunc pellentesque sodales ipsum, nec hendrerit velit condimentum non. Mauris sagittis turpis libero, a finibus mi lobortis id. Aenean tincidunt massa a eleifend feugiat. Donec condimentum dolor vel eros bibendum aliquam. Ut consectetur, mi laoreet consequat iaculis, tellus dui sodales magna, sit amet egestas nunc lorem ac tortor. Fusce libero odio, dictum nec neque quis, aliquam porta felis. Curabitur in vulputate metus. <br>&emsp; &emsp;
-
-        Suspendisse ante dolor, volutpat et enim lacinia, mattis eleifend orci. Pellentesque luctus fringilla rhoncus. Vivamus eget arcu id risus ullamcorper interdum a sit amet massa. Etiam laoreet ut lectus ut tristique. Maecenas nec fermentum tellus. Ut lorem orci, interdum sed justo quis, suscipit convallis tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam lorem sapien, scelerisque ac turpis pellentesque, condimentum commodo leo.</p>
+          <p>&emsp; &emsp; Our Pastor, Superintendent Samuel L. Payne Jr. is leading the
+body of Christ and moving God’s program forward. Following
+God’s mandate, Our Pastor accepts the challenge to share the
+awesome work that is being embodied in the mountains of
+Asheville, North Carolina at Sycamore Temple Church of God in
+Christ; and through this great Gospel of Jesus Christ, we believe
+all things can be accomplished.</p>
 
 
           <h2>Bio</h2>
 
-          <p>&emsp; &emsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed fringilla tellus, ut varius ante. Praesent condimentum metus ac eros pretium, sit amet tristique nibh luctus. Vestibulum bibendum, quam quis vestibulum pulvinar, lectus neque sollicitudin lectus, eget tincidunt sem risus ac leo. Donec sed orci vulputate, pulvinar tortor ac, sollicitudin velit. Mauris eget sagittis justo, id porta sem. Quisque porta congue nibh id pulvinar. Nunc gravida diam et leo auctor elementum.<br>&emsp; &emsp;
+          <p>&emsp; &emsp; Pastor Samuel L. Payne Jr.,
+has enjoyed the privilege of residency in the beautiful mountains of Asheville, North Carolina.
+He is the second of three siblings. Pastor Payne was offered the mantel of Pastorship following
+the demise of his great father Supt. Samuel Louis Payne Sr., and for over 30 years he continues
+to be the enthusiastic Pastor of Sycamore Temple Church of God In Christ with a testimony that
+he is saved, sanctified and filled with the Holy Ghost and do speak in tongues as the Spirit gives
+utterance. He is not just a man taking a walk, but he is a man of distinction, moral integrity,
+and high principles. As a result, in 2014 he was appointed Superintendent of the Land of the
+Sky Asheville District by Bishop Leroy Jackson Woolard. As leader of this great District,
+Superintendent Payne is endeavoring to strengthen the body of Christ to a greater level of
+growth and commitment.<br>&emsp; &emsp;
 
-        Mauris cursus sapien sit amet lorem condimentum, a congue erat viverra. Etiam vel dolor quis lacus auctor ultricies. Morbi at condimentum augue. Quisque lacus mauris, volutpat at porta eu, suscipit vel velit. Ut vitae ex pellentesque, commodo felis vitae, varius sapien. Ut vel blandit sem. Quisque nec nisi turpis.<br>&emsp; &emsp;
+Pastor Payne has recently been appointed as 4th Administrative Assistant to Bishop Leroy J.
+Woolard, a position he does not take for granted. He stands tall in the Greater North Carolina
+Jurisdiction and is well respected throughout the Jurisdiction and abroad. He serves as
+Chairman of the Ordination Committee and Co-Chairman of the Finance Committee.<br>&emsp; &emsp;
 
-        Nunc quam orci, volutpat et magna vel, dapibus tincidunt mi. Aliquam hendrerit augue venenatis nulla rutrum, vitae porttitor magna hendrerit. Phasellus ac tempor tortor. Interdum et malesuada fames ac ante ipsum primis in faucibus. In hac habitasse platea dictumst. Curabitur sed arcu quis odio ultrices pellentesque blandit ac elit. Aliquam sodales justo id sapien ultricies rutrum. Ut eget dui quam. Praesent eget est vitae nulla condimentum finibus. Fusce risus nisi, pulvinar sed mauris vel, sollicitudin auctor turpis. In hac habitasse platea dictumst. Ut egestas, enim at faucibus tincidunt, nulla dui ornare odio, sit amet feugiat nibh augue quis elit.</p>
+Pastor Payne attended AB Tech and trained in Auto Mechanics. Before graduating, he was
+drafted in the United States Army serving from 1969 – 1971. After returning to Asheville from
+the military, Pastor Payne attended Cecil Business College. Pastor Payne retired from Carolina
+Power &amp; Light Company (CP&amp;L) in 1993 after 20 years and became full-time in the Ministry.
+This accomplishment has afforded him great opportunities throughout Greater North Carolina
+and other parts of the United States. Under his tutelage as Pastor, Sycamore Temple would
+successfully feeds anywhere from 20-50 homeless persons per Sunday. Pastor Payne served as
+CEO of Grace Community Development, a program under the umbrella of Sycamore Temple
+COGIC which consisted of an abstinence Program, an after school program, and a literacy
+program. Pastor Payne stands tall in the community and well respected throughout the college
+of Pastors in Asheville.<br>&emsp; &emsp;
 
-          <h2>First Lady Janice Marie Payne</h2>
+Pastor Payne is truly a family man. His marriage to the late Barbara Gordon-Payne was one of
+great accomplishment. He is the proud father of 3 daughters: Nikkia Payne-McBath, Nicole
+Payne-Wright and Natosha Payne. He is the proud grandfather (Pop-pee) of 5 wonderful
+grandkids: Skyrah, Tice, Anthony, Gary, Victoria and April.<br>&emsp; &emsp;
 
-          <p>&emsp; &emsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lacinia turpis ut arcu fermentum, eget lacinia ligula finibus. Fusce posuere est sodales erat sagittis, sit amet posuere quam hendrerit. Cras convallis ex quis neque dictum volutpat in ut libero. In rhoncus lectus sed velit sagittis, id tristique neque ultricies. Nunc non nunc in lectus laoreet lobortis. Nullam egestas velit cursus, euismod massa quis, suscipit nisi. Proin ultrices bibendum neque, non auctor odio consequat eget. Phasellus consectetur nunc sit amet sapien lobortis aliquet. Curabitur vel tellus id mi dictum volutpat at eu nunc. Vivamus dui odio, pellentesque et justo sed, semper dapibus felis. Sed cursus erat nec nulla commodo faucibus. Ut in elit non arcu sodales maximus sit amet non leo. Proin ac interdum sem.</p>
+He is now married to Lady Janice Marie Payne. Together they are striving to Lead the Body of
+Christ at Sycamore Temple to higher heights and seeking to motivate the members to always
+pursue HOLY and RIGHTEOUS living. During times of uncertainty, Pastor Payne alone with
+Sycamore Temple’s Prayer Team incorporates 14+ hours of weekly prayer assembly.
+Pastor Payne is truly a man after God’s own heart.</p>
+
+
         </div>
 
 
