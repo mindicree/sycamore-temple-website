@@ -1,4 +1,4 @@
-<? php
+<?php
 
 
   $name = $_POST['name'];
@@ -8,10 +8,10 @@
   $message = $_POST['message'];
   $message = wordwrap($message, 75);
   $body = "Name:".$name."\n
-           Email:."$user_email."\n
+           Email:".$user_email."\n
            Message:".$message;
 
-  $reciever = 'tsumararaiko@gmail.com';
+  $reciever = 'admin@sycamoretemplecogic.org';
 
 
   mail($reciever, $subject, $body);
