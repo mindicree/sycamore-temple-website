@@ -33,12 +33,18 @@ h4 {
 @media only screen and (max-width: 1000px) {
 
   .front-banner {
-    grid-template-columns: .001% auto .001%;
-    height: 400px;
+    grid-template-columns: .001% auto 45%;
+    height: 700px;
   }
 
   h3 {
-    padding-top: 100px;
+    padding-top: 150px;
+    font-size: 100px;
+  }
+  h4 {
+    padding-top: 50px;
+    font-size: 25px;
+    line-height: 30px;
   }
 }
 </style>
