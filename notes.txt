@@ -8,38 +8,49 @@ Programming Notes
   - h6 - quote
 
 Immediate Requirements
-- High-resolution photo(s) of Pastor and First Lady
 - High-resolution photo(s) of the church
 - Sycamore Temple Seal
 - Sycamore Temple Title Font
 
 Current Tasks
-- add more social media icons (1 hr)
-- create contact page (2 hrs)
-- create live page (2 hrs)
-- create giving page (2 hrs)
-- change quick links to div boxes
--
-- Redo front banner for single image for church (4-6 hrs)
-  - req (priority norm): photo of pastor and first Lady
-  - req (priority norm): sycamore temple Seal
-  - req (priority norm): sycamore temple title font
+- include images in home page (4 hrs)
+  - P&FL to right (2 hrs)
+  - modify banner container grid (1 hr)
+- modify homepage for mobile (16 hrs)
+  - hamburger bar height (double)(1 hrs)
+  - banner height (50% height) (2 hrs)
+  - quick link sizes (12 hrs)
+    - turn quick links to divs (3 hrs)
+    - adjust container grid width (2 hrs)
+    - quick link list (6 hrs)
+      - giving (1 hr)
+      - live (1 hr)
+      - learn (1 hr)
+      - announcements (1 hr)
+      - ministries (1 hr)
+      - Contact (1 hr)
+  - font sizes (2 hrs)
 
 
 Future Tasks
-- create about page (2-4 hrs)
-  - req (priority low): text about the church
+- implement gallery page (8 hrs)
+- implement contact page (2 hrs)
+- create live page (2 hrs)
+- create giving page (2 hrs)
+- change quick links to div boxes (4 hrs)
+- create ministry pages (16 hrs)
+  - women's Ministry (2 hrs)
+  - men's Ministry (2 hrs)
+  - youth department (2 hrs)
+  - deacon's board (2 hrs)
+  - evangelism (2 hrs)
+  - sunday School (2 hrs)
+  - music Ministry (2 hrs)
+  - church administration (2 hrs)
+- Revamp about page (6 hrs)
+  - ministries
+  - figureheads
+  - Bio
 
-- create our pastor page (2-4 hrs)
-  - req (priority low): text about Pastor
-  - req (priority norm): photo(s) of pastor
-
-- create gallery page (4-8 hrs)
-  - req (priority low): photos for gallery
-
-- create announcements page (8 hrs)
-  - req (priority low): announcements
-
-- create contact page (8 hrs)
-  - req (priority low): email for reception
-  - req (priority low):
+Future content
+- church mother
