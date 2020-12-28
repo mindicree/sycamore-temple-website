@@ -57,12 +57,20 @@ ul li a:hover {
     text-align: center;
   }
 
+  ul li a {
+    font-size: 24px;
+  }
+
   #h-bar {
     visibility: visible;
     position: relative;
-    padding-top: 5px;
+    padding-top: 25px;
     padding-left: 0;
     width: 100%;
+  }
+
+  nav {
+    height: 80px;
   }
 }
 
@@ -70,7 +78,7 @@ ul li {
   list-style: none;
   display: inline-inline-block;
   float: left;
-  line-height: 40px;
+  line-height: 80px;
   transition: ease-in-out 0.15s;
 }
 </style>
