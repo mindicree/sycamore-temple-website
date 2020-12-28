@@ -6,17 +6,17 @@ nav {
   position: fixed;
   background-color: #fff;
   z-index: 100;
+  -webkit-box-shadow: 0 8px 6px -6px #999;
+  -moz-box-shadow: 0 8px 6px -6px #999;
+  box-shadow: 0 8px 6px -6px #999;
 }
 
 /* Mobile Navigation Styling */
-@media only screen and (min-width: 1000px) {
+@media only screen and (max-width: 1000px) {
   nav {
-    -webkit-box-shadow: 0 8px 6px -6px #999;
-    -moz-box-shadow: 0 8px 6px -6px #999;
-    box-shadow: 0 8px 6px -6px #999;
+    height: 80px;
   }
 }
-
 ul {
   display: inherit;
 }
@@ -59,6 +59,7 @@ ul li a:hover {
 
   ul li a {
     font-size: 24px;
+    line-height: 80px;
   }
 
   #h-bar {
@@ -69,16 +70,13 @@ ul li a:hover {
     width: 100%;
   }
 
-  nav {
-    height: 80px;
-  }
 }
 
 ul li {
   list-style: none;
   display: inline-inline-block;
   float: left;
-  line-height: 80px;
+  line-height: 40px;
   transition: ease-in-out 0.15s;
 }
 </style>
