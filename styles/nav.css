@@ -65,7 +65,7 @@ ul li a:hover {
   #h-bar {
     visibility: visible;
     position: relative;
-    padding-top: 25px;
+    padding-top: 15px;
     padding-left: 0;
     width: 100%;
   }
