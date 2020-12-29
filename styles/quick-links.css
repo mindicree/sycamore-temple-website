@@ -1,30 +1,64 @@
 <style>
 /* Quick Links Styling */
-.quick-links {
-  width: 100%;
+.quick-link-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  width: 80%;
   margin: auto;
-  text-align: center;
+  justify-content: center;
+  align-self: center;
   position: inherit;
   padding-top: 20px;
 }
 
-.quick-links a img {
-  width: 200px;
-  margin: 20px 50px;
+.quick-link {
+  width: 250px;
+  height: 250px;
+  margin: auto;
+  margin-top: 50px;
   transition: transform .2s;
   box-shadow: 8px 8px 8px black;
+  background: rgb(255, 0, 0);
 }
 
-.quick-links a img:hover {
+.quick-link:hover {
   transform: scale(1.05);
   box-shadow: 8px 8px 8px black;
 }
 
 @media only screen and (max-width: 1000px) {
-  .quick-links a img {
-    width: 150px;
-    margin: 20px 15px;
+  .quick-link-container {
+    width: 100%;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+  }
+
+  .quick-link {
+    width: 400px;
+    height: 400px;
+    align-self: center;
     transition: transform .2s;
   }
+}
+
+/*Individual Stylings*/
+#quick-link-1 {
+  background: rgb(255, 0, 0);
+}
+#quick-link-2 {
+  background: rgb(255, 255, 0);
+}
+#quick-link-3 {
+  background: rgb(255, 0, 255);
+}
+#quick-link-4 {
+  background: rgb(0, 255, 0);
+}
+#quick-link-5 {
+  background: rgb(0, 255, 255);
+}
+#quick-link-6 {
+  background: rgb(0, 0, 0);
 }
 </style>

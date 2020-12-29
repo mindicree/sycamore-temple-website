@@ -46,10 +46,25 @@
       -->
 
         <!-- Quick Links -->
-        <div class="quick-links">
-          <a href="#"><img src="img\quick-links\giving.jpg" alt="" class="quick-link"></a>
-          <a href="#"><img src="img\quick-links\streaming.jpg" alt="" class="quick-link"></a>
-          <a href="#"><img src="img\quick-links\learning.jpg" alt="" class="quick-link"></a>
+        <div class="quick-link-container">
+          <a href="#"> <div class="quick-link" id="quick-link-1">
+
+          </div> </a>
+          <a href="#"> <div class="quick-link" id="quick-link-2">
+
+          </div> </a>
+          <a href="#"> <div class="quick-link" id="quick-link-3">
+
+          </div> </a>
+          <a href="#"> <div class="quick-link" id="quick-link-4">
+
+          </div> </a>
+          <a href="#"> <div class="quick-link" id="quick-link-5">
+
+          </div> </a>
+          <a href="#"> <div class="quick-link" id="quick-link-6">
+
+          </div> </a>
         </div>
 
         <!-- Sycamore -->

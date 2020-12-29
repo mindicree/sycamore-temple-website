@@ -13,15 +13,8 @@ Immediate Requirements
 - Sycamore Temple Title Font
 
 Current Tasks
-- include images in home page (4 hrs)
-  - P&FL to right (2 hrs)
-  - modify banner container grid (1 hr)
 - modify homepage for mobile (16 hrs)
-  - hamburger bar height (double)(1 hrs)
-  - banner height (50% height) (2 hrs)
   - quick link sizes (12 hrs)
-    - turn quick links to divs (3 hrs)
-    - adjust container grid width (2 hrs)
     - quick link list (6 hrs)
       - giving (1 hr)
       - live (1 hr)
