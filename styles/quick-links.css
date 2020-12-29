@@ -13,6 +13,8 @@
 }
 
 .quick-link {
+  display: grid;
+  grid-row: 1fr 1fr;
   width: 250px;
   height: 250px;
   margin: auto;
@@ -25,6 +27,14 @@
 .quick-link:hover {
   transform: scale(1.05);
   box-shadow: 8px 8px 8px black;
+}
+
+.quick-link-text {
+  font-size: 40px;
+  font-weight: bold;
+  padding-top: 25px;
+  text-align: center;
+  color: white;
 }
 
 @media only screen and (max-width: 1000px) {

@@ -47,21 +47,32 @@
 
         <!-- Quick Links -->
         <div class="quick-link-container">
-          <a href="#"> <div class="quick-link" id="quick-link-1">
-
+          <!--Quick Link 1 -->
+          <a href="#" style="text-decoration: none;"> <div class="quick-link" id="quick-link-1">
+            <span class="quick-link-text"> Giving Options </span>
           </div> </a>
+
+          <!--Quick Link 1 -->
           <a href="#"> <div class="quick-link" id="quick-link-2">
 
           </div> </a>
+
+          <!--Quick Link 1 -->
           <a href="#"> <div class="quick-link" id="quick-link-3">
 
           </div> </a>
+
+          <!--Quick Link 1 -->
           <a href="#"> <div class="quick-link" id="quick-link-4">
 
           </div> </a>
+
+          <!--Quick Link 1 -->
           <a href="#"> <div class="quick-link" id="quick-link-5">
 
           </div> </a>
+
+          <!--Quick Link 1 -->
           <a href="#"> <div class="quick-link" id="quick-link-6">
 
           </div> </a>
