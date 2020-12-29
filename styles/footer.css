@@ -54,9 +54,8 @@ footer .info {
 /* Mobile Footer Correction */
 @media only screen and (max-width: 1000px) {
   footer {
-    height: var(--footer-height) + 100px;
+    height: var(--footer-height);
   }
-
   footer .legal-stuff {
     width: 100%;
   }
@@ -73,9 +72,14 @@ footer .info {
     height: 128px;
   }
 
+  footer .social-media {
+    background-color: var(--green);
+  }
+
   footer .info {
     font-size: 40px;
     line-height: 40px;
+    background-color: var(--green);
   }
 }
 </style>
