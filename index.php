@@ -24,8 +24,8 @@
         <div class="front-banner">
           <div class="banner-text-container">
             <h3>Sycamore Temple
-              <span style="font-size: 42px;"><br>Church of God in Christ</span>
-              <span style="text-decoration: underline; line-height: 1px; font-size: 35px;"><br>Services and Times </span>
+              <span style="font-size: 46px;"><br>Church of God in Christ</span>
+              <span class="service-times"><br>Services and Times </span>
               <h4>Sunday School: 09:45 a.m. <br> Morning Worship: 11:00 a.m. <br> YPWW: 7:00 p.m. </h4>
             </h3>
           </div>

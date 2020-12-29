@@ -14,16 +14,22 @@
 
 h3 {
   color: #fff;
-  font-size: 76px;
+  font-size: 80px;
   position: relative;
   padding-top: 150px;
   font-weight: lighter;
   text-shadow: 4px 4px 10px black;
 }
 
+.service-times {
+  text-decoration: underline;
+  line-height: 1px;
+  font-size: 35px;
+}
+
 h4 {
   color: #fff;
-  font-size: 30px;
+  font-size: 24px;
   position: relative;
   padding-top: 0px;
   font-weight: lighter;
@@ -48,12 +54,16 @@ h4 {
   }
 
   h3 {
-    padding-top: 150px;
+    padding-top: 140px;
     font-size: 100px;
+  }
+
+  .service-times {
+    font-size: 46px;
   }
   h4 {
     padding-top: 1px;
-    font-size: 35px;
+    font-size: 40px;
     line-height: 45px;
   }
 
