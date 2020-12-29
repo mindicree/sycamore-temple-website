@@ -12,15 +12,17 @@ footer {
 footer .legal-stuff {
   padding-top: 30px;
   text-align: center;
-  width: 100%;
-  display: inline-block;
+  margin: auto;
+  width: 40%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
 }
 
 footer .legal-stuff a {
   text-decoration: none;
   color: #aaa;
   font-weight: bold;
-  margin: 0px 60px;
+  margin: auto;
 }
 
 footer .legal-stuff a:hover {
@@ -51,11 +53,29 @@ footer .info {
 
 /* Mobile Footer Correction */
 @media only screen and (max-width: 1000px) {
+  footer {
+    height: var(--footer-height) + 100px;
+  }
+
+  footer .legal-stuff {
+    width: 100%;
+  }
+
   footer .legal-stuff a {
     text-decoration: none;
     color: #aaa;
     font-weight: bold;
-    margin: 0px 30px;
+    font-size: 48px;
+  }
+
+  .sm-icon {
+    width: 128px;
+    height: 128px;
+  }
+
+  footer .info {
+    font-size: 40px;
+    line-height: 40px;
   }
 }
 </style>

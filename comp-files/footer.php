@@ -8,15 +8,15 @@
 
 <div class="social-media">
   <a href="https://facebook.com/sycamoretemple">
-    <img src="img/assets/Facebook.svg" width: "64" height = "64" alt="">
+    <img src="img/assets/Facebook.svg" width: "64" height = "64" alt="" class="sm-icon">
   </a>
 
   <a href="#">
-    <img src="img/assets/Instagram.svg" width: "64" height = "64" alt="">
+    <img src="img/assets/Instagram.svg" width: "64" height = "64" alt="" class="sm-icon">
   </a>
 
   <a href="#">
-    <img src="img/assets/Youtube.svg" width: "64" height = "64" alt="">
+    <img src="img/assets/Youtube.svg" width: "64" height = "64" alt="" class="sm-icon">
   </a>
 </div>
 
