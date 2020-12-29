@@ -53,28 +53,28 @@
           </div> </a>
 
           <!--Quick Link 1 -->
-          <a href="#"> <div class="quick-link" id="quick-link-2">
-
+          <a href="#" style="text-decoration: none;"> <div class="quick-link" id="quick-link-2">
+            <span class="quick-link-text"> Live Service </span>
           </div> </a>
 
           <!--Quick Link 1 -->
-          <a href="#"> <div class="quick-link" id="quick-link-3">
-
+          <a href="#" style="text-decoration: none;"> <div class="quick-link" id="quick-link-3">
+            <span class="quick-link-text"> Our Pastor </span>
           </div> </a>
 
           <!--Quick Link 1 -->
-          <a href="#"> <div class="quick-link" id="quick-link-4">
-
+          <a href="#" style="text-decoration: none;"> <div class="quick-link" id="quick-link-4">
+            <span class="quick-link-text"> Your Announcements </span>
           </div> </a>
 
           <!--Quick Link 1 -->
-          <a href="#"> <div class="quick-link" id="quick-link-5">
-
+          <a href="#" style="text-decoration: none;"> <div class="quick-link" id="quick-link-5">
+            <span class="quick-link-text"> Church Ministries </span>
           </div> </a>
 
           <!--Quick Link 1 -->
-          <a href="#"> <div class="quick-link" id="quick-link-6">
-
+          <a href="#" style="text-decoration: none;"> <div class="quick-link" id="quick-link-6">
+            <span class="quick-link-text"> Contact Us </span>
           </div> </a>
         </div>
 
