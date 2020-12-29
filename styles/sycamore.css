@@ -2,9 +2,10 @@
 /* Sycamore Styling */
 .sycamore {
   display: grid;
-  grid-template-columns: auto 60% auto;
+  grid-template-columns: auto 65% auto;
   grid-template-rows: 1fr;
-  width: 70%;
+  width: 75%;
+  max-width: 1000px;
   margin: auto;
   padding-top: 50px;
   padding-bottom: 50px;
@@ -17,7 +18,7 @@
 
 .sycamore h6 {
   padding-top: 10%;
-  font-size: 60px;
+  font-size: 64px;
   font-family: edward;
   position: relative;
 }
@@ -31,14 +32,15 @@
 @media only screen and (max-width: 1000px) {
   .sycamore {
     width: 100%;
+    grid-template-columns: auto 75% auto;
   }
 
   .sycamore h6 {
-    font-size: 120px;
+    font-size: 100px;
   }
 
   .sycamore img {
-    padding-top: 40%;
+    padding-top: 50%;
   }
 
   .quote {
