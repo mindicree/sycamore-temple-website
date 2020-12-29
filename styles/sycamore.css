@@ -2,7 +2,7 @@
 /* Sycamore Styling */
 .sycamore {
   display: grid;
-  grid-template-columns: 25% 50% 25%;
+  grid-template-columns: auto 60% auto;
   grid-template-rows: 1fr;
   width: 70%;
   margin: auto;
@@ -16,7 +16,7 @@
 }
 
 .sycamore h6 {
-  padding-top: 20%;
+  padding-top: 10%;
   font-size: 60px;
   font-family: edward;
   position: relative;
@@ -34,7 +34,15 @@
   }
 
   .sycamore h6 {
-    font-size: 38px;
+    font-size: 120px;
+  }
+
+  .sycamore img {
+    padding-top: 40%;
+  }
+
+  .quote {
+    font-size: 34px;
   }
 }
 </style>
