@@ -16,6 +16,7 @@ footer .legal-stuff {
   width: 40%;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  background-color: var(--green);
 }
 
 footer .legal-stuff a {
@@ -58,6 +59,9 @@ footer .info {
   }
   footer .legal-stuff {
     width: 100%;
+    position: absolute;
+    top: 370px;
+    padding-bottom: 30px;
   }
 
   footer .legal-stuff a {
@@ -74,12 +78,14 @@ footer .info {
 
   footer .social-media {
     background-color: var(--green);
+    padding-top: 30px;
   }
 
   footer .info {
     font-size: 40px;
-    line-height: 40px;
+    line-height: 48px;
     background-color: var(--green);
+    padding-bottom: 30px;
   }
 }
 </style>
