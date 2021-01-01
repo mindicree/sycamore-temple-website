@@ -32,4 +32,10 @@ h1 {
     width: 80%;
     padding-left: 10%;
   }
+
+  @media only screen and (max-width: 1000px) {
+    h1 {
+      padding-top: 135px;
+    }
+  }
 </style>

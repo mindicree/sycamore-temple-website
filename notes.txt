@@ -13,6 +13,7 @@ Immediate Requirements
 - Sycamore Temple Title Font
 
 Current Tasks
+- adjust banner height for mobile
 - modify homepage for mobile (16 hrs)
   - Quick Link Icons (6 hrs)
     - quick link list (6 hrs)
