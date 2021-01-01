@@ -60,16 +60,16 @@
 
           <!--Quick Link 1 -->
           <a href="#" style="text-decoration: none;"> <div class="quick-link" id="quick-link-3">
-            <span class="quick-link-text"> Church Ministries </span>
+            <span class="quick-link-text"> Ministries </span>
           </div> </a>
 
           <!--Quick Link 1 -->
-          <a href="#" style="text-decoration: none;"> <div class="quick-link" id="quick-link-4">
-            <span class="quick-link-text"> Your Announcements </span>
+          <a href="announcements.php" style="text-decoration: none;"> <div class="quick-link" id="quick-link-4">
+            <span class="quick-link-text"> Announcements </span>
           </div> </a>
 
           <!--Quick Link 1 -->
-          <a href="#" style="text-decoration: none;"> <div class="quick-link" id="quick-link-5">
+          <a href="contact.php" style="text-decoration: none;"> <div class="quick-link" id="quick-link-5">
             <span class="quick-link-text"> Contact Us </span>
           </div> </a>
 
@@ -82,7 +82,7 @@
         <!-- Sycamore -->
         <div class="sycamore">
           <img src="img\assets\sycamore.jpg" alt="">
-          <h6>We're Better Together <br><span class="quote"> - Sup. Samuel L Payne, Jr. </span></h6>
+          <h6>We're Better Together <br><span class="quote"> - Superintendent Samuel L Payne, Jr. </span></h6>
           <img src="img\assets\sycamore.jpg" alt=""></img>
         </div>
         <!-- Content Ends Here -->
