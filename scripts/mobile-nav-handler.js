@@ -2,11 +2,20 @@
   console.log("mobile-nav-handler loaded successfully");
   let isVisible = false;
 
+  //toggles mobile navigation bar
   function navToggle () {
     if (!isVisible) {
       document.querySelector("ul").setAttribute("style", "visibility: visible;");
       isVisible = true;
     } else {
+      document.querySelector("ul").setAttribute("style", "visibility: hidden;");
+      isVisible = false;
+    }
+  }
+
+  //closes mobile navigation bar (for mobile tap)
+  function navClose () {
+    if (isVisible) {
       document.querySelector("ul").setAttribute("style", "visibility: hidden;");
       isVisible = false;
     }
