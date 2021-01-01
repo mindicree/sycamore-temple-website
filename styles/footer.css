@@ -87,5 +87,9 @@ footer .info {
     background-color: var(--green);
     padding-bottom: 30px;
   }
+
+  #phone-number {
+    text-decoration: none;
+  }
 }
 </style>
