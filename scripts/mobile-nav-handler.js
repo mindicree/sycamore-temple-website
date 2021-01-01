@@ -1,6 +1,9 @@
 <script type="text/javascript">
   console.log("mobile-nav-handler loaded successfully");
   let isVisible = false;
+  let contentContainer = document.querySelector(".content");
+  contentContainer.addEventListener('click', navClose);
+  contentContainer.addEventListener('mouseenter', navClose);
 
   //toggles mobile navigation bar
   function navToggle () {

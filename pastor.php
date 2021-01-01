@@ -14,11 +14,10 @@
 
   <body>
     <div class="page-container">
+      <!-- navigation from menu.php -->
+      <?php include "comp-files/menu.php"; ?>
+
       <div class="content">
-        <!-- navigation from menu.php -->
-        <?php include "comp-files/menu.php"; ?>
-
-
 
         <!-- Content Begins Here -->
         <h1 style="padding-top: 45px;"><span id="pastor-sub" style="font-size: 20px; font-weight: normal;"><br>Our Pastor</span><br> Sup. Samuel L Payne, Jr.</h1>
