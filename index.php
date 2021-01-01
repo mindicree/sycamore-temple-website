@@ -26,7 +26,7 @@
             <h3>Sycamore Temple
               <span style="font-size: 46px;"><br>Church of God in Christ</span>
               <span class="service-times"><br>Services and Times </span>
-              <h4>Sunday School: 09:45 a.m. <br> Morning Worship: 11:00 a.m. <br> YPWW: 7:00 p.m. </h4>
+              <h4>Sunday School: 09:45 a.m. <br> Morning Worship: 11:00 a.m. <br> YPWW: 07:00 p.m. </h4>
             </h3>
           </div>
           <img src="img\banner-image-2.png" alt="" id="banner-image">

@@ -18,7 +18,7 @@
 
 <div class="info">
   11 N Ann Street, Asheville, NC 28803 <br>
-  <span id="phone-number">(828)-253-2968 </span> <br>
+  <a href="tel:18282532968" id="phone-number">(828)-253-2968 </a> <br>
   © 2020 Sycamore Temple Church of God in Christ, Inc. - All Rights Reserved.
 </div>
 
