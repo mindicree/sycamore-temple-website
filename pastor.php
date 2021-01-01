@@ -20,12 +20,12 @@
       <div class="content">
 
         <!-- Content Begins Here -->
-        <h1 style="padding-top: 45px;"><span id="pastor-sub" style="font-size: 20px; font-weight: normal;"><br>Our Pastor</span><br> Sup. Samuel L Payne, Jr.</h1>
+        <h1>Our Pastor</h1>
         <div class="about-text-wrapper">
 
 
-          <h2>Who is Superintendent Payne?</h2>
-          <p>&emsp; &emsp; Our Pastor, Superintendent Samuel L. Payne Jr. is leading the
+          <h2>Superintendent Samuel L. Payne, Jr.</h2>
+          <p>&emsp; &emsp; Our Pastor, Superintendent Samuel L. Payne, Jr. is leading the
 body of Christ and moving God’s program forward. Following
 God’s mandate, Our Pastor accepts the challenge to share the
 awesome work that is being embodied in the mountains of
