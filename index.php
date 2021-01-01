@@ -49,7 +49,7 @@
         <!-- Quick Links -->
         <div class="quick-link-container">
           <!--Quick Link 1 -->
-          <a href="#" style="text-decoration: none;"> <div class="quick-link" id="quick-link-1">
+          <a href="pastor.php" style="text-decoration: none;"> <div class="quick-link" id="quick-link-1">
             <span class="quick-link-text"> Our Pastor </span>
           </div> </a>
 
