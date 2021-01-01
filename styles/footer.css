@@ -49,7 +49,12 @@ footer .info {
   text-align: center;
   padding-top: 20px;
   margin: auto;
-  line-height: 20px;
+  line-height: 24px;
+}
+
+#phone-number {
+  text-decoration: underline;
+  color: #fff;
 }
 
 /* Mobile Footer Correction */
@@ -86,11 +91,6 @@ footer .info {
     line-height: 48px;
     background-color: var(--green);
     padding-bottom: 30px;
-  }
-
-  #phone-number {
-    text-decoration: underline;
-    color: #fff;
   }
 }
 </style>

@@ -17,7 +17,7 @@
 </div>
 
 <div class="info">
-  11 N Ann Street, Asheville, NC 28803 <br>
+  <a href="http://maps.google.com/?q=Sycamore%20Temple%20COGIC%20Asheville%20NC" id="phone-number" target="_blank">11 N Ann Street, Asheville, NC 28803 <br> </a>
   <a href="tel:18282532968" id="phone-number">(828)-253-2968 </a> <br>
   © 2020 Sycamore Temple Church of God in Christ, Inc. - All Rights Reserved.
 </div>
