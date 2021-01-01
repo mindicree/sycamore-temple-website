@@ -17,6 +17,10 @@ Current Tasks
   - Quick Link Icons (6 hrs)
     - quick link list (6 hrs)
       - giving (1 hr)
+        - PayPal
+        - CashApp
+        - Givelify
+        - Tithely
       - live (1 hr)
       - learn (1 hr)
       - announcements (1 hr)

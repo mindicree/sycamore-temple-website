@@ -51,6 +51,12 @@
           <!--Quick Link 1 -->
           <a href="pastor.php" style="text-decoration: none;"> <div class="quick-link" id="quick-link-1">
             <span class="quick-link-text"> Our Pastor </span>
+            <div id="giving-icon-container">
+              <img src="img\assets\paypal_square.png" alt="" class="giving-icon">
+              <img src="img\assets\cashapp_square.png" alt="" class="giving-icon">
+              <img src="img\assets\givelify_square.png" alt="" class="giving-icon">
+              <img src="img\assets\tithely_square.png" alt="" class="giving-icon">
+            </div>
           </div> </a>
 
           <!--Quick Link 1 -->
