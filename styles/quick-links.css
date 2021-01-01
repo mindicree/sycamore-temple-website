@@ -15,7 +15,7 @@
 
 .quick-link {
   display: grid;
-  grid-row: 1fr 1fr;
+  grid-template-rows: 20% auto;
   width: 250px;
   height: 250px;
   margin: auto;
@@ -23,6 +23,22 @@
   transition: transform .2s;
   box-shadow: 8px 8px 8px black;
   background: rgb(14,77,68);
+}
+
+#giving-icon-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 50% auto;
+  overflow: hidden;
+  width: 50%;
+  margin: auto;
+}
+
+.giving-icon {
+  width: 64px;
+  height: 64px;
+  margin: auto;
+  border-color: black;
 }
 
 .quick-link:hover {
@@ -63,6 +79,15 @@
 
   .quick-link:hover {
     transform: none;
+  }
+
+  #giving-icon-container {
+    width: 64%;
+  }
+
+  .giving-icon {
+    width: 128px;
+    height: 128px;
   }
 }
 
