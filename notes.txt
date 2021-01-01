@@ -14,11 +14,6 @@ Immediate Requirements
 
 Current Tasks
 - modify homepage for mobile (16 hrs)
-  - Sycamore Layout (1 hr)
-  - Footer Layout
-    - no YouTube links
-    - align Links
-    - change number
   - Quick Link Icons (6 hrs)
     - quick link list (6 hrs)
       - giving (1 hr)
@@ -27,8 +22,6 @@ Current Tasks
       - announcements (1 hr)
       - ministries (1 hr)
       - Contact (1 hr)
-  - font sizes (2 hrs)
-
 
 Future Tasks
 - implement gallery page (8 hrs)
