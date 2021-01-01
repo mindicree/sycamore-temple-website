@@ -50,17 +50,17 @@
         <div class="quick-link-container">
           <!--Quick Link 1 -->
           <a href="#" style="text-decoration: none;"> <div class="quick-link" id="quick-link-1">
-            <span class="quick-link-text"> Giving Options </span>
+            <span class="quick-link-text"> Our Pastor </span>
           </div> </a>
 
           <!--Quick Link 1 -->
           <a href="#" style="text-decoration: none;"> <div class="quick-link" id="quick-link-2">
-            <span class="quick-link-text"> Live Service </span>
+            <span class="quick-link-text"> Giving Options </span>
           </div> </a>
 
           <!--Quick Link 1 -->
           <a href="#" style="text-decoration: none;"> <div class="quick-link" id="quick-link-3">
-            <span class="quick-link-text"> Our Pastor </span>
+            <span class="quick-link-text"> Church Ministries </span>
           </div> </a>
 
           <!--Quick Link 1 -->
@@ -70,12 +70,12 @@
 
           <!--Quick Link 1 -->
           <a href="#" style="text-decoration: none;"> <div class="quick-link" id="quick-link-5">
-            <span class="quick-link-text"> Church Ministries </span>
+            <span class="quick-link-text"> Contact Us </span>
           </div> </a>
 
           <!--Quick Link 1 -->
           <a href="#" style="text-decoration: none;"> <div class="quick-link" id="quick-link-6">
-            <span class="quick-link-text"> Contact Us </span>
+            <span class="quick-link-text"> Live Service </span>
           </div> </a>
         </div>
 
