@@ -51,6 +51,7 @@
           <!--Quick Link 1 -->
           <a href="pastor.php" style="text-decoration: none;"> <div class="quick-link" id="quick-link-1">
             <span class="quick-link-text"> Our Pastor </span>
+            <img src="img\assets\pastor_clergy.jpg" alt="" class="quick-link-img">
           </div> </a>
 
           <!--Quick Link 1 -->
