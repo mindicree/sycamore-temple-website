@@ -28,6 +28,8 @@ h1 {
   }
 
   .about-text-wrapper {
+    display: grid;
+    grid-template-rows: 10% auto auto;
     padding-bottom: 50px;
     width: 80%;
     padding-left: 10%;
