@@ -74,16 +74,19 @@
           <!--Quick Link 1 -->
           <a href="announcements.php" style="text-decoration: none;"> <div class="quick-link" id="quick-link-4">
             <span class="quick-link-text"> Announcements </span>
+            <img src="img\assets\announcements.png" alt="" class="quick-link-img">
           </div> </a>
 
           <!--Quick Link 1 -->
           <a href="contact.php" style="text-decoration: none;"> <div class="quick-link" id="quick-link-5">
             <span class="quick-link-text"> Contact Us </span>
+            <img src="img\assets\email.jpg" alt="" class="quick-link-img">
           </div> </a>
 
           <!--Quick Link 1 -->
           <a href="#" style="text-decoration: none;"> <div class="quick-link" id="quick-link-6">
             <span class="quick-link-text"> Live Service </span>
+            <img src="img\assets\coming_soon.png" alt="" class="quick-link-img">
           </div> </a>
         </div>
 
