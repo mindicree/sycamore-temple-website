@@ -6,8 +6,8 @@
     <title>Sycamore Temple COGIC | Home</title>
     <?php include "comp-files/header.php"; ?>
     <style>
-      #nav-[] { background-color: var(--green);}
-      #nav-[] a { color: #fff;}
+      #nav-ministries { background-color: var(--green);}
+      #nav-ministries a { color: #fff;}
     </style>
 
   </head>
@@ -20,7 +20,7 @@
       <div class="content">
 
         <!-- Content Begins Here -->
-
+        <h1>Church Ministries</h1>
 
 
 
