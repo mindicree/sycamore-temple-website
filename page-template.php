@@ -14,11 +14,10 @@
 
   <body>
     <div class="page-container">
+      <!-- navigation from menu.php -->
+      <?php include "comp-files/menu.php"; ?>
+
       <div class="content">
-        <!-- navigation from menu.php -->
-        <?php include "comp-files/menu.php"; ?>
-
-
 
         <!-- Content Begins Here -->
 
@@ -26,9 +25,6 @@
 
 
         <!-- Content Ends Here -->
-
-
-
 
       </div>
       <!-- Footer from footer.php -->
