@@ -8,8 +8,10 @@
     <li id="nav-home"><a href="index.php">Home</a></li>
     <li id="nav-about"><a href="about.php">About Us</a></li>
     <li id="nav-pastor"><a href="pastor.php">Our Pastor</a></li>
-    <li id="nav-gallery"><a href="gallery.php">Gallery</a></li>
+    <li id="nav-ministries"><a href="ministries.php">Ministries</a></li>
     <li id="nav-events"><a href="announcements.php">Announcements</a></li>
+    <li id="nav-gallery"><a href="gallery.php">Gallery</a></li>
+    <li id="nav-giving"><a href="giving.php">Giving</a></li>
     <li id="nav-contact"><a href="contact.php">Contact Us</a></li>
   </ul>
 </nav>
