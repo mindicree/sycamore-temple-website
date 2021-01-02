@@ -39,6 +39,7 @@ footer .social-media {
 footer .social-media a {
   opacity: .8;
   padding: 0px 40px;
+  text-decoration: none;
 }
 
 footer .social-media a:hover {
