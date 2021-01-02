@@ -16,11 +16,11 @@ Current Tasks
 
 
 Future Tasks
-- implement gallery page (8 hrs)
+- implement gallery page [dependency: images](8 hrs)
 - implement contact page (2 hrs)
-- create live page (2 hrs)
-- create giving page (2 hrs)
-- implement ministry pages (16 hrs)
+- create live page [dependency: YouTube account](2 hrs)
+- implement giving page [dependency: giving accounts](2 hrs)
+- implement ministry pages [dependency: ministry pictures and descriptions](16 hrs)
   - women's Ministry (2 hrs)
   - men's Ministry (2 hrs)
   - youth department (2 hrs)
@@ -29,10 +29,3 @@ Future Tasks
   - sunday School (2 hrs)
   - music Ministry (2 hrs)
   - church administration (2 hrs)
-- Revamp about page (6 hrs)
-  - ministries
-  - figureheads
-  - Bio
-
-Future content
-- church mother
