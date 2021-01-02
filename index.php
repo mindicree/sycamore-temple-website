@@ -67,7 +67,7 @@
           <!--Quick Link 1 -->
           <a href="#" style="text-decoration: none;"> <div class="quick-link" id="quick-link-3">
             <span class="quick-link-text"> Ministries </span>
-            <img src="img\assets\seal_2.png" alt="" style="width: 128px; height: 128px; margin: auto" id="seal">
+            <img src="img\assets\seal_2.png" alt="" class="quick-link-img">
           </div> </a>
 
           <!--Quick Link 1 -->

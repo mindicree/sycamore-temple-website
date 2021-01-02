@@ -55,6 +55,12 @@
 
 }
 
+.quick-link-img {
+  width: 128px;
+  height: 128px;
+  margin: auto;
+}
+
 @media only screen and (max-width: 1000px) {
   .quick-link-container {
     width: 100%;
@@ -89,6 +95,13 @@
     width: 128px;
     height: 128px;
   }
+
+  .quick-link-img {
+    width: 256px;
+    height: 256px;
+    margin: auto;
+  }
+
 }
 
 /*Individual Stylings
