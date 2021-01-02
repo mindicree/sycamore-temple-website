@@ -55,7 +55,7 @@
           </div> </a>
 
           <!--Quick Link 1 -->
-          <a href="#" style="text-decoration: none;"> <div class="quick-link" id="quick-link-2">
+          <a href="giving.php" style="text-decoration: none;"> <div class="quick-link" id="quick-link-2">
             <span class="quick-link-text"> Giving Options </span>
             <div id="giving-icon-container">
               <img src="img\assets\paypal_square.png" alt="" class="giving-icon">
@@ -66,7 +66,7 @@
           </div> </a>
 
           <!--Quick Link 1 -->
-          <a href="#" style="text-decoration: none;"> <div class="quick-link" id="quick-link-3">
+          <a href="ministries.php" style="text-decoration: none;"> <div class="quick-link" id="quick-link-3">
             <span class="quick-link-text"> Ministries </span>
             <img src="img\assets\seal_2.png" alt="" class="quick-link-img">
           </div> </a>
@@ -84,7 +84,7 @@
           </div> </a>
 
           <!--Quick Link 1 -->
-          <a href="#" style="text-decoration: none;"> <div class="quick-link" id="quick-link-6">
+          <a href="#" style="text-decoration: none;" onclick="alert('Coming soon!')"> <div class="quick-link" id="quick-link-6">
             <span class="quick-link-text"> Live Service </span>
             <img src="img\assets\coming_soon.png" alt="" class="quick-link-img">
           </div> </a>
