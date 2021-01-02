@@ -34,7 +34,7 @@ Asheville, North Carolina at Sycamore Temple Church of God in
 Christ; and through this great Gospel of Jesus Christ, we believe
 all things can be accomplished.</p>
 
-<img src="img\assets\pastor_clergy.jpg" alt="" style="margin: auto; width: 300px; height: auto;">
+<img src="img\assets\pastor_clergy.jpg" alt="" id="clergy">
           <h2>Bio</h2>
 
           <p>&emsp; &emsp; Pastor Samuel L. Payne Jr.,
