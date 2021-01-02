@@ -13,27 +13,14 @@ Immediate Requirements
 - Sycamore Temple Title Font
 
 Current Tasks
-- modify homepage for mobile (16 hrs)
-  - Quick Link Icons (6 hrs)
-    - quick link list (6 hrs)
-      - giving (1 hr)
-        - PayPal
-        - CashApp
-        - Givelify
-        - Tithely
-      - live (1 hr)
-      - learn (1 hr)
-      - announcements (1 hr)
-      - ministries (1 hr)
-      - Contact (1 hr)
+
 
 Future Tasks
 - implement gallery page (8 hrs)
 - implement contact page (2 hrs)
 - create live page (2 hrs)
 - create giving page (2 hrs)
-- change quick links to div boxes (4 hrs)
-- create ministry pages (16 hrs)
+- implement ministry pages (16 hrs)
   - women's Ministry (2 hrs)
   - men's Ministry (2 hrs)
   - youth department (2 hrs)
